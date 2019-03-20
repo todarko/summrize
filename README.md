@@ -1,2 +1,0 @@
-# summrize
-Summrize Home Page
