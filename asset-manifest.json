@@ -1,15 +1,14 @@
 {
   "main.css": "/static/css/main.b768182f.chunk.css",
-  "main.js": "/static/js/main.4ea778d0.chunk.js",
-  "main.js.map": "/static/js/main.4ea778d0.chunk.js.map",
+  "main.js": "/static/js/main.3ea7fda2.chunk.js",
+  "main.js.map": "/static/js/main.3ea7fda2.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
   "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.f24868ef.chunk.js": "/static/js/2.f24868ef.chunk.js",
-  "static/js/2.f24868ef.chunk.js.map": "/static/js/2.f24868ef.chunk.js.map",
+  "static/js/2.ddcd0a05.chunk.js": "/static/js/2.ddcd0a05.chunk.js",
+  "static/js/2.ddcd0a05.chunk.js.map": "/static/js/2.ddcd0a05.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.12ed4454c79194dc83b081814cae5a28.js": "/precache-manifest.12ed4454c79194dc83b081814cae5a28.js",
+  "precache-manifest.7269241ed78be7496e665de536f95c63.js": "/precache-manifest.7269241ed78be7496e665de536f95c63.js",
   "service-worker.js": "/service-worker.js",
   "static/css/main.b768182f.chunk.css.map": "/static/css/main.b768182f.chunk.css.map",
-  "static/media/ios_app.png": "/static/media/ios_app.c28e60e9.png",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "static/media/ios_app.png": "/static/media/ios_app.c28e60e9.png"
 }
